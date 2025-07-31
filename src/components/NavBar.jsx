@@ -10,6 +10,8 @@ export default function Navbar() {
     { name: "Notice", path: "/notice" },
     { name: "Teachers", path: "/teachers" },
     { name: "Contact", path: "/contact" },
+    { name: "Gallery", path: "/gallery" },
+
   ];
 
   const navLinkClass = ({ isActive }) =>

@@ -10,10 +10,9 @@ const AboutPage = () => {
       <section className="flex flex-col md:flex-row items-center gap-8">
         {/* Text */}
         <div className="md:w-4/5 w-full space-y-4">
-          <h2 className="text-2xl font-bold text-gray-800">Who We Are</h2>
+          <h2 className="text-2xl font-bold text-gray-800">About</h2>
           <p className="text-gray-600 leading-relaxed">
-            Our institution is committed to providing high-quality education through a nurturing and inclusive environment. 
-            We focus on academic excellence, character development, and preparing students for real-world success.
+           It is a Non-government College. This institute's EIIN number is 128360. This institute is located in Khas Satbaria, Sirajganj, Rajshahi Division. It's geographical area is Plain Land. It offers classes up to Degree (pass) level. Please refer to the table below for information on the EIIN, location, contact number, MPO status, and additional details.
           </p>
         </div>
         {/* Image */}
@@ -48,7 +47,7 @@ const AboutPage = () => {
 
       {/* Section 3 */}
       <section className="bg-blue-50 py-12 px-6 rounded-lg text-center shadow">
-        <h2 className="text-2xl font-bold text-blue-800 mb-4">Why Choose Us?</h2>
+        <h2 className="text-2xl font-bold text-blue-800 mb-4">Guide</h2>
         <p className="text-gray-700 max-w-3xl mx-auto leading-relaxed">
           With experienced faculty, modern facilities, and a rich academic tradition, our institution stands out as a center for educational excellence. 
           We focus on holistic development, fostering both academic and personal growth for a brighter future.
